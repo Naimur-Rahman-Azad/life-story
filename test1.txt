@@ -7,3 +7,4 @@ i started job
 i will join new degree
 logo alignment is centered
 new line is added in feature branch
+
